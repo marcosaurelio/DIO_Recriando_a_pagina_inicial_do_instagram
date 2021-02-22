@@ -1,1 +1,5 @@
-# DIO - Recriando a página inicial do Instagram
+# BootCamp DIO - Avanade Angular Developer
+
+### Objetivo
+
+Desenvolver projetos usando Angular 8
